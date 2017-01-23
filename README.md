@@ -1,2 +1,1 @@
-# website
-Semin Musić Web Site
+# Semin Musić Web Site
