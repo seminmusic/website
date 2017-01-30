@@ -56,11 +56,14 @@ p {
   position: absolute;
   right: 0;
   width: 240px;
-  height: 100%;
-  min-height: 800px;
+  /*height: 100%;
+  min-height: 800px;*/
   color: #fff;
   width: 260px;
   width: 290px;
+
+  height: 100%;
+  min-height: 876px;
 }
 .sidebar-wrapper a {
   color: #fff;
